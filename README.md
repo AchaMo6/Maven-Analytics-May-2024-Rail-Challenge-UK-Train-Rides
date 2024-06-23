@@ -1,3 +1,4 @@
+**EXECUTIVE SUMMARY**
 # Maven-Analytics-May-2024-Rail-Challenge-UK-Train-Rides
 An expository analysis of customer behavior and operational performance on the UK Train rides for the period Dec 2023 - Apr 2024 using Power BI
  
@@ -23,7 +24,7 @@ Clustered Bar Chart: Visualizing revenue and total tickets by journey status.
 
 Clustered Column Chart: Showing reason for delay by ticket type.
 
-**Insights and Impact Derived:**
+**Insights Derived:**
 
 Revenue started trending up on December 2023, rising by 26,783.41% ($172,753) in 4 months.
 
