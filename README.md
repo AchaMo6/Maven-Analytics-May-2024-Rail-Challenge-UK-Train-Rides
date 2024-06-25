@@ -1,6 +1,6 @@
 **EXECUTIVE SUMMARY**
 # Maven-Analytics-May-2024-Rail-Challenge-UK-Train-Rides
-An expository analysis of customer behavior and operational performance on the UK Train rides for the period Dec 2023 - Apr 2024 using Power BI
+This project is an expository analysis of customer behavior and operational performance on the UK Train rides for the period December 2023 to April 2024 using Power BI. The original data set used was obtained from the @Maven Analytics Rail Challenge for the Month of May 2024. Cleaning and transformation was done using Microsoft Excel Power Query Editor to remove duplicates and other observed errors and misrepresentations. Thereafter, an indepth manipulation and analysis was carried out using the Power BI Desktop, employing narratives, tables, charts and other visuals to derive insights to aid potential stakeholders in their decision making process. More so, additional measures were created for Refunded tickets, Revenue and toatal Tickets to aid the analytics process.
  
 **KPIs:**
 
